@@ -22,7 +22,7 @@ Level 3, Semester I  
 
 ### Objectives
 
-The said "HSTU Bus Schedule Management System" aims to facilitate the traveling of students easy. It has both the weekly and daily bus schedules that show the buses available for that day currently. The schedules will be updated automatically to reflect the buses from the present time. Extra buses will be added by the administrators when it is needed according to the number of waiting students. Students will board buses using their ID cards. The realtime location of the buses plus the time estimation needed for reaching a stop will also be made available in this system.
+HSTU Bus Schedule Management System aims to facilitate the traveling of students easy. It has both the weekly and daily bus schedules that show the buses available for that day currently. The schedules will be updated automatically to reflect the buses from the present time. Extra buses will be added by the administrators when it is needed according to the number of waiting students. Students will board buses using their ID cards. The realtime location of the buses plus the time estimation needed for reaching a stop will also be made available in this system.
 
 ---
 
@@ -41,7 +41,9 @@ The development of this system will be done by using the Iterative Model. This m
 The complete system comprises of:
 
 **Students:** Can view the timings of buses, can use their id cards to travel and track the buses.
+
 **Admins:** They can add extra buses and schedule them.
+
 **Bus Drivers:** Update the current location of the bus with the schedule.
 
 In the future, they may provide additional features like notification, routing benefits, and fuel tracking.
@@ -69,7 +71,7 @@ In the future, they may provide additional features like notification, routing b
 ID Card System  
 
 - **Plan:** Divide the system into small pieces, which is called increments, and it will be carried out step by step.
-Phase 3: System Configuration-Iterative Steps 
+#### **Phase 3: System Configuration-Iterative Steps** 
 
 We will build the system in chunks. 
 
