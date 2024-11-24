@@ -1,4 +1,4 @@
-### HSTU Bus Schedule System
+### HSTU Bus Schedule Management System
 
 ### Objectives
 
