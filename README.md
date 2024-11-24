@@ -8,6 +8,8 @@ The said "HSTU Bus Schedule System" aims to facilitate the traveling of students
 
 ### **Iterative Model in Use**
 
+![An image of iterative model](https://www.tutorialspoint.com/sdlc/images/sdlc_iterative_model.jpg)
+
 The development of this system will be done by using the Iterative Model. This model is useful because:
 
 - **Feedback**: Each step lets the users upgrade the system through feedback.  
