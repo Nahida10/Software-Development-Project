@@ -57,6 +57,7 @@ In the future, they may provide additional features like notification, routing b
 • Real-time up-to-minute current schedule updates.  
 • Addition of more routes as the demand arises.  
 • ID card issuance for boarding of buses.
+
 • Arrive at the venue of the bus and arrival time of the bus tracking.
 
 #### **Phase 2: System Design**
