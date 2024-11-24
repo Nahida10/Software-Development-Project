@@ -52,12 +52,12 @@ In the future, they may provide additional features like notification, routing b
 #### Phase 1: Requirements
 
 • Need Identification: Discussion with the students, administration staff, and drivers about problems and their needs.  
-• Feature List:  
+##### Feature List:  
  • Display Bus Schedules: The schedule for the whole week and for a day.  
 • Real-time up-to-minute current schedule updates.  
 • Addition of more routes as the demand arises.  
 • ID card issuance for boarding of buses.
-- Arrive at the venue of the bus and arrival time of the bus tracking.
+• Arrive at the venue of the bus and arrival time of the bus tracking.
 
 #### **Phase 2: System Design**
 
