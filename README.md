@@ -48,7 +48,7 @@ In the future, they may provide additional features like notification, routing b
 
 ---
 ### **Design Using the Iterative Model**
-#### **Phase 1: Requirements
+#### Phase 1: Requirements
 
 • Need Identification: Discussion with the students, administration staff, and drivers about problems and their needs.  
 • Feature List:  
