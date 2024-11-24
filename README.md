@@ -75,7 +75,7 @@ We will build the system in chunks.
 
 Step 1: Schedules 
 - Addition of weekly schedules. 
-- Displaying of daily schedule starting from now. 
+- Displaying of daily schedule starting from the current time of the device. 
 
 Step 2: Admin Controls 
 - Adding of buses by admin based on the number of students. 
