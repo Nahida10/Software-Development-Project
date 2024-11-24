@@ -1,7 +1,5 @@
 # *HSTU Bus Schedule Management System*
-
-*A Project submitted to the Department of Computer Science and Engineering*  
-Hajee Mohammad Danesh Science and Technology University  
+  
 
 *Course Title*: Software Engineering  
 *Course Code*: CSE 305  
@@ -10,6 +8,7 @@ Hajee Mohammad Danesh Science and Technology University
 *Pankaj Bhowmik*  
 Lecturer  
 Department of Computer Science and Engineering  
+Hajee Mohammad Danesh Science and Technology University, Dinajpur, 5200.
 
 ### *Submitted By*  
 *Nahida Farzana*  
