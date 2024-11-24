@@ -1,3 +1,23 @@
+# *HSTU Bus Schedule Management System*
+
+*A Project submitted to the Department of Computer Science and Engineering*  
+Hajee Mohammad Danesh Science and Technology University  
+
+*Course Title*: Software Engineering  
+*Course Code*: CSE 305  
+
+### *Submitted To*  
+*Pankaj Bhowmik*  
+Lecturer  
+Department of Computer Science and Engineering  
+
+### *Submitted By*  
+*Nahida Farzana*  
+Student ID: 2102057  
+Level 3, Semester I  
+
+---
+
 ### HSTU Bus Schedule Management System
 
 ### Objectives
