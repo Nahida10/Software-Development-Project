@@ -22,7 +22,7 @@ Level 3, Semester I  
 
 ### Objectives
 
-The said "HSTU Bus Schedule System" aims to facilitate the traveling of students easy. It has both the weekly and daily bus schedules that show the buses available for that day currently. The schedules will be updated automatically to reflect the buses from the present time. Extra buses will be added by the administrators when it is needed according to the number of waiting students. Students will board buses using their ID cards. The realtime location of the buses plus the time estimation needed for reaching a stop will also be made available in this system.
+The said "HSTU Bus Schedule Management System" aims to facilitate the traveling of students easy. It has both the weekly and daily bus schedules that show the buses available for that day currently. The schedules will be updated automatically to reflect the buses from the present time. Extra buses will be added by the administrators when it is needed according to the number of waiting students. Students will board buses using their ID cards. The realtime location of the buses plus the time estimation needed for reaching a stop will also be made available in this system.
 
 ---
 
